@@ -1,2 +1,3 @@
-# mtouch
-移动端手势事件兼容方案
+# Mtouch.js
+Mtouch.js
+
